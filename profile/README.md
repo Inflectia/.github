@@ -1,5 +1,5 @@
 
-<img width="2700" height="700" alt="66d12ba20ab0574aa4431551_LOGO INFECTIA CLICK SLACH TEXT" src="https://github.com/user-attachments/assets/bd87f405-8e4c-448e-a178-8d86c6977545" />
+<img width="1584" height="396" alt="Diseño sin título(1)" src="https://github.com/user-attachments/assets/935dbb4b-0426-40f3-a8bc-08764ab674b2" />
 
 ---
 
