@@ -28,7 +28,7 @@ We use modern tools and frameworks tailored to each project, including:
 ---
 
 ## 👤 Founder
-<img width="190" height="190" alt="fabian" src="https://github.com/user-attachments/assets/17cbc7d5-8016-4d72-aa74-88440e3815a2" />
+<img width="190" height="190" alt="New Project(6)" src="https://github.com/user-attachments/assets/ed11c920-50d1-40e6-b673-47fa9336000d" />
 
 **Fabian Sanchez**  
 Founder  
