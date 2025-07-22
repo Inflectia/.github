@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Our Mission
+## 🚀 Our Purpose
 
 We are committed to developing digital solutions that deliver meaningful value and improve how people interact with technology in their daily lives.
 
